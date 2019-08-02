@@ -76,106 +76,106 @@ During the June 6, 2019 Co-Designing Procurement event at NMAAHC, vendors indica
 Unknown: Depth of exhibit detail?  
 SI Response: TBD  
 
-Uknonwn: Will we meet 12-month schedule?  
+Uknown: Will we meet 12-month schedule?  
 SI Response:  
 
-Uknonwn: Who are the users? (who is the) future digital audience? Do you have access to users?  
+Uknown: Who are the users? (who is the) future digital audience? Do you have access to users?  
 SI Response: Discovery scope will help inform who the users are. Yes vendors will have access to users.  
 
-Uknonwn: How to replicate impact digitally? How to translate experience digitally?  
+Uknown: How to replicate impact digitally? How to translate experience digitally?  
 SI Response:   
 
-Uknonwn: Cost?  
+Uknown: Cost?  
 SI Response: It's hard to imagine a team size (FTEs) of less than 5 or larger than 10. We are communicating this to ensure that vendors and SI are in the same 'ball park' for price. This may evolve since SI is still in the market research phase.  
 
-Uknonwn: (Will there be) onboarding problems?  
+Uknown: (Will there be) onboarding problems?  
 SI Response:  SI has levels related onboarding needs. SI is normally able to onboard individuals within 30 days, which is for the most complicated level. An example of a lighter level is email and network account which is normall completed in less than 2 weeks, including access to collaboration tools such as JIRA and Confluence. However, full access to SI's internal development environments will take longer (such as 30 days).  
 
-Uknonwn: Lifespan of product? Transition strategy (maintenance)? Tolerance for ongoing support and creation? Extensibility, expectations? How will the presence/exhibit grow?  
+Uknown: Lifespan of product? Transition strategy (maintenance)? Tolerance for ongoing support and creation? Extensibility, expectations? How will the presence/exhibit grow?  
 SI Response:  The lifespan for the product should be indefinite assuming it is successful and accessible to the public. For transition strategy and how to grow the product, we are not yet sure. That said, the user experience needs to be scalable, and the idea is we shoudl keep in mind that it is possible to grow it to the other exhibits in the museum. There is not an expectation that this initial MVP will necessarily become the platform for digital products related to other exhibits. So there may be future, separate efforts, for more platform work where this and many other digital products might be built upon. For transition strategy, a scenario where this could become more important is if a vendor really wants to build in an Microsoft Azure environment which would be new to NMAAHC since the museum currently uses Amazon Web Services (AWS). Then NMAAHC would need to understand more about how you as a vendor could transition the NMAAHC from AWS to Azure.  
 
-Uknonwn: Connect with other meseums/sources?  
+Uknown: Connect with other museums/sources?  
 SI Response: For the purposees of this MVP, that might just look like linking to or embedding other online resourcs from other museums, libraries, and universities. So it would not look like a requirement to build an API from an outside source to pull in information from, for example, a university.  
 
-Uknonwn: TRB (Technical Review Board) process?  
+Uknown: TRB (Technical Review Board) process?  
 SI Response: Yes there is a TRB process. More details can be provided at a later time. However, at contract close out, all work will subject to the technical review and privacy board. Note that there is no anticipation of PCI or PII for this MVP. As far as effort related to the TRB process, if there is an exploit or vulnerability in the MVP/product, the vendor would need to address/fix that prior to final payment and contract close out. However, the hope is that quality and testing has been done at the iteration level and therefore will be a small issue, if any, at time of TRB and close out.  
 
-Uknonwn: Accessibility needs for web, language, visual, etc.?  
+Uknown: Accessibility needs for web, language, visual, etc.?  
 SI Response: This subject will be covered in more detail in the final RFP/RFQ. For this MVP, NMAAHC is only interested in English; no translation is envisioned. For 508 compliance and ADA-related issues, those will need to be met. That is part of the TRB's review and quality assurance (QA) process. NMAAHC has some tools for that QA process.  
 
-Uknonwn: Licensing issues for exhibition objects?   
+Uknown: Licensing issues for exhibition objects?   
 SI Response: SI is undecided on whether SI will procure licenses or if the vendor will procure licenses. So either (1) SI will procure it and pay for this directly, or (2) anything new will be procured by the vendor and be paid for under the Other Direct Costs CLIN in the contract.  
 
-Uknonwn: How much support from back-end systems   
+Uknown: How much support from back-end systems   
 SI Response: As with previous NMAAHC RFPs, there will be a section of what technical resources that SI will make available to the vendor. For example, providing the details about the AWS environments that vendors will have access to. NMAAHC will indicate what the museum can make available. Another example is: for existing collection, NMAAHC can provide a search API for some objects, or NMAAHC can provide an XML dump.   
 
-Uknonwn: Current visitor feedback - physical museum and current digital experience?  
+Uknown: Current visitor feedback - physical museum and current digital experience?  
 SI Response: NMAAHC will receive a front end evaluation with Smithsonian Organizational and Audience Research (SOAR), and that evaluation will be available to the vendor. Also, NMAAHC Visitor Services may collect visitor surveys but not necessarily for this project. For the digital experience, NMAAHC has data from google analytics, but perhaps not survey information.  
 
-Uknonwn: What are their (SI's) strategies for adoption in place or need to be included?  
+Uknown: What are their (SI's) strategies for adoption in place or need to be included?  
 SI Response:   
 
 
-Uknonwn: How are we adding new content? How much of the catalog/content is not even on display, that may translate better onlineHow much content is in ready state vs. needs production cost/build? Content moderation? Full extent and artifacts; multimedia- music, text, etc.   SI Response:  
+Uknown: How are we adding new content? How much of the catalog/content is not even on display, that may translate better onlineHow much content is in ready state vs. needs production cost/build? Content moderation? Full extent and artifacts; multimedia- music, text, etc.   SI Response:  
 
 Uknonwn: User research for digital exhibit? User research for current exhibit? How will design/product research be performed?  
 SI Response: Vendors will have access to this existing research, but we'll need to confirm the details of what is available.  
 
-Uknonwn: Is there an existing brand strategy?  
+Uknown: Is there an existing brand strategy?  
 SI Response: Yes NMAAHC's marketing and public affairs team have an existing brand strategy. Designs for the MVP are not constrained by current design patterns and visual style guides for existing digital products However, NMAAHC marketing / public affairs offices will be key stakeholders throughout the design and development process of the MVP.   
 
-Uknonwn: Are there experiences we can use for reference?  
+Uknown: Are there experiences we can use for reference?  
 SI Response: A majore news publication anticipates releasing a digital product having to do with a similar subject, and NMAAHC can provide feedback to vendors once that publication's product is launched.   
 
-Uknonwn: Which elements of the experience provides the most value to the audience?  
+Uknown: Which elements of the experience provides the most value to the audience?  
 SI Response:  This will be dependent on user research.
 
-Uknonwn: What is the capacity for technology at the museum?  
+Uknown: What is the capacity for technology at the museum?  
 SI Response: High  
 
-Uknonwn: What is success? (What is the) big vision? What is the desired impact? (What are the) desired outcomes? What does success look like?  
+Uknown: What is success? (What is the) big vision? What is the desired impact? (What are the) desired outcomes? What does success look like?  
 SI Response:  
 
-Uknonwn: (What are your) metrics?   
+Uknown: (What are your) metrics?   
 SI Response: NMAAHC has some core digital metrics, but metrics for this specific product will likely become apparent only after user research. Yes NMAAHC already has technical analytics, but TBD is what specifically will be capturing for this MVP/product.  
 
-Uknonwn: Stakeholder management?  
+Uknown: Stakeholder management?  
 SI Response:  
 
-Uknonwn: Layering?  
+Uknown: Layering?  
 SI Response: Yes there will be layers. The amount of layers is TBD and will likely remain so until user research is under way. It is possible that layering may be different for different sections of the MVP. These decisions should come out in prioritization when the time comes to look at the road map, epics, etc, all of which will occur after unitial user research. 
 
-Uknonwn: What's the best first step?  
+Uknown: What's the best first step?  
 SI Response:  
 
-Uknonwn: What is compliance and regulations at the agency level?  
+Uknown: What is compliance and regulations at the agency level?  
 SI Response:  
 
-Uknonwn: Attitude for embracing failure as an organization? Willingness to consider a new way? (Ability to embrace) change? Ability to embrace ambiguity? Appetite or constraints to beta test MVP?  
+Uknown: Attitude for embracing failure as an organization? Willingness to consider a new way? (Ability to embrace) change? Ability to embrace ambiguity? Appetite or constraints to beta test MVP?  
 SI Response:  
 
-Uknonwn: Social media? What are the marketing/promotional goals?  
+Uknown: Social media? What are the marketing/promotional goals?  
 SI Response: Yes, there will be marketing and public affairs will be involved in the larger proejct, but this is not yet developed to date. we're goign to tell people about using our other existing channels. and it will be important for the vendor to engage with SI marketing and comms prior to the vendor doing their own comms relating to the digital product.  
 
-Uknonwn: Appetite for incremental delivery?  
+Uknown: Appetite for incremental delivery?  
 SI Response: Very high.  
 
-Uknonwn: What is the relationship between SI and NMAAHC - technology, governance, comms?  
+Uknown: What is the relationship between SI and NMAAHC - technology, governance, comms?  
 SI Response: NMAAHC is one of 20 units/museums. There are various levels of shared services. For example, the Office of the Chief Information Officer (OCIO) is agency-wide and therefore across all 20 units/museums. NMAAHC works closely and in tandem with OCIO. As another example, brand strategy at each museum does their own coordination, but each museum's brand strategy rolls up into the umbrella policy for SI as a whole.    
 
-Uknonwn: Will stakeholders/Product Owner(s) be engaged/empowered? Who is the ultimate decision-maker/Product Owner?  
+Uknown: Will stakeholders/Product Owner(s) be engaged/empowered? Who is the ultimate decision-maker/Product Owner?  
 SI Response: The Product Owner(s) will be completely engaged. NMAAHC will share the existing RACI chart for this project which indicates who makes what decisions.   
 
-Uknonwn: Technical implementation?  
+Uknown: Technical implementation?  
 SI Response:
 
-Uknonwn:  (What are the) constraints on design (including) format (eg length), media (eg audio), etc.?  
+Uknown:  (What are the) constraints on design (including) format (eg length), media (eg audio), etc.?  
 SI Response: TBD. The experience is meant to span the entirety of the exhibition experience. However, it isn't intended to be complete in the sense of all of the objects and such (every one of the 1,000's of objects and 1,000's of stories).  
 
-Uknonwn: (It sounds like) in-person informs digital, instead of other way around. Can we experiment in digital before changing exhibit?  
+Uknown: (It sounds like) in-person informs digital, instead of other way around. Can we experiment in digital before changing exhibit?  
 SI Response: NMAAHC is not inticpating changes to physical exhibit based on digital changes.  
  
-Uknonwn: Highest level of quality/fidelity?  
+Uknown: Highest level of quality/fidelity?  
 SI Response: Design and development of the MVP will follow an iterative approach of increasing the quality / fidelity of the final product to be delivered. Expectation is the overall quality of the MVP will meet (or exceed) the standards set by NMAAHC's physical exhibitions and digital products.
 
 Uknonwn: Sensitivity of data - security and compliance considerations?  
