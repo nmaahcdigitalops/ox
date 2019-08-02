@@ -95,10 +95,10 @@ Uknonwn: Lifespan of product? Transition strategy (maintenance)? Tolerance for o
 SI Response:  The lifespan for the product should be indefinite assuming it is successful and accessible to the public. For transition strategy and how to grow the product, we are not yet sure. That said, the user experience needs to be scalable, and the idea is we shoudl keep in mind that it is possible to grow it to the other exhibits in the museum. There is not an expectation that this initial MVP will necessarily become the platform for digital products related to other exhibits. So there may be future, separate efforts, for more platform work where this and many other digital products might be built upon. For transition strategy, a scenario where this could become more important is if a vendor really wants to build in an Microsoft Azure environment which would be new to NMAAHC since the museum currently uses Amazon Web Services (AWS). Then NMAAHC would need to understand more about how you as a vendor could transition the NMAAHC from AWS to Azure.  
 
 Uknonwn: Connect with other meseums/sources?  
-SI Response: For the purposees of this MVP, that might just look like linking to or embedding to other online resourcs from other museums, libraries, and universities. So it would not look like a requirement to build an API from an outside source to pull in information from, for example, a university.  
+SI Response: For the purposees of this MVP, that might just look like linking to or embedding other online resourcs from other museums, libraries, and universities. So it would not look like a requirement to build an API from an outside source to pull in information from, for example, a university.  
 
 Uknonwn: TRB (Technical Review Board) process?  
-SI Response: Yes there is a TRB process. More details can be provided at a later time. However, at contract close out, all work will subject to the technical review and privacy board. Note that there is no anticipation of PCI and no PII for this MVP. As far as effort related to the TRB process, if there is an exploit or vulnerability in the MVP/product, then the vendor would need to address/fix that prior to payment. However, the hope is that quality and testing has been done at the iteration level and therefore will be a small issue, if any, at contract close out.  
+SI Response: Yes there is a TRB process. More details can be provided at a later time. However, at contract close out, all work will subject to the technical review and privacy board. Note that there is no anticipation of PCI or PII for this MVP. As far as effort related to the TRB process, if there is an exploit or vulnerability in the MVP/product, the vendor would need to address/fix that prior to final payment and contract close out. However, the hope is that quality and testing has been done at the iteration level and therefore will be a small issue, if any, at time of TRB and close out.  
 
 Uknonwn: Accessibility needs for web, language, visual, etc.?  
 SI Response: This subject will be covered in more detail in the final RFP/RFQ. For this MVP, NMAAHC is only interested in English; no translation is envisioned. For 508 compliance and ADA-related issues, those will need to be met. That is part of the TRB's review and quality assurance (QA) process. NMAAHC has some tools for that QA process.  
@@ -122,7 +122,7 @@ Uknonwn: User research for digital exhibit? User research for current exhibit? H
 SI Response: Vendors will have access to this existing research, but we'll need to confirm the details of what is available.  
 
 Uknonwn: Is there an existing brand strategy?  
-SI Response: Yes NMAAHC's marketing and PR functions have a brand strategy. However, those functions would not have to approve anything for this MVP.   
+SI Response: Yes NMAAHC's marketing and public affairs team have an existing brand strategy. Designs for the MVP are not constrained by current design patterns and visual style guides for existing digital products However, NMAAHC marketing / public affairs offices will be key stakeholders throughout the design and development process of the MVP.   
 
 Uknonwn: Are there experiences we can use for reference?  
 SI Response: A majore news publication anticipates releasing a digital product having to do with a similar subject, and NMAAHC can provide feedback to vendors once that publication's product is launched.   
@@ -176,7 +176,7 @@ Uknonwn: (It sounds like) in-person informs digital, instead of other way around
 SI Response: NMAAHC is not inticpating changes to physical exhibit based on digital changes.  
  
 Uknonwn: Highest level of quality/fidelity?  
-SI Response: Not for the MVP.
+SI Response: Design and development of the MVP will follow an iterative approach of increasing the quality / fidelity of the final product to be delivered. Expectation is the overall quality of the MVP will meet (or exceed) the standards set by NMAAHC's physical exhibitions and digital products.
 
 Uknonwn: Sensitivity of data - security and compliance considerations?  
 SI Response: Yes there will be security and commpliance considerations. See the TRB question and answer. There will be a security questionnaire. Part of the TRB includes security documents, which the vendor usually assists in completing.    
