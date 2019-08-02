@@ -1,6 +1,6 @@
 # DRAFT Statement of Objectives
-## Smithsonian Institution National Museum of African American Museum of African American History and Culture
-## Slavery and Freedom Digital Miminum Viable Product
+## Smithsonian Institution National Museum of African American History and Culture
+## Slavery and Freedom Digital Minimum Viable Product
 ### PROBLEM STATEMENT
 
 SI NMAAHC's slavery and freedom exhibit is limited in both the amount of people it can reach and the quantity of objects, artifacts, information and stories it can share with others. Only so many are able to visit the exhibit in Washington, DC, and the physical constraints of the exhibit only allow for a finite amount of objects, artifacts, information and stories.  
