@@ -75,22 +75,47 @@ __Cons:__ Potentially a staffing-related delay for the vendor in between Task 1 
 
 ### How to Pitch
 _vendors - What are we getting wrong here? Will this or another approach lead to a more effective way to both tell and show your capabilities to help solve the problem statement in the SOO? Please suggest alternative approaches. Is the lightness/heaviness of the'lift' and BD expense for you as a vendor appropriate at each phase yet effective enough to draw a line in the sand at the end of each stage? Should the advisory down-select be moved to a different stage? Removed all together?_ 
-##### Phase 1  - Request for White Paper
-* 5 page white paper
-  * The focus here is around previous demonstrability of the Digital Services Playbook. Tell specific stories to show how your company (or individuals at your company) have brought those plays to life.
-  * The Smithsonian National Museum of African American History and Culture is seeking interested vendors to submit white papers in response to the needs addressed in this Statement of Objectives. Interested vendors should prepare a response, no more than ten (10) pages including any exhibits or appendices, for submission no later than (month) (day), 2019 in accordance with the attached template. The Government will confirm receipt of each vendor’s white paper within 24 hours of submission; if you do not receive a confirmation in that period, please contact the Attorney/Advisor immediately. No submissions will be accepted after the deadline ((month) (day), 2019) regardless of circumstances.
-* All vendors with questions must submit the questions, in writing, to the Attorney/Advisor by (month) (day), 2019. All questions, along with the Government responses, will be published publicly within 48 hours. The Government is unable to answer any questions privately or after these deadlines under Federal law and regulations.
-* The Government will review white papers and select one or more vendors to continue in the process outlined below.
 
-##### Phase 2 - Interviews
-* Scenario-based interview focused on (1) discovery and prototyping, and (2) building digital MVPs
-* Advisory down-select at the end of this
+##### Phase 1  - Request for Written Proposal
 
-##### Phase 3
-* Due Diligence Session
-* Technical Approach
-* Price
-* Past performance/experience (not just corporate)
+_**Details:** All vendors may choose the response format that best addresses the below requests – deck, PDF, or Word document. While we are not including length requirements, please maintain brevity where possible._
+
+_**Questions:** All vendors with questions must submit them, in writing, to the Attorney/Advisor by (month) (day), 2019. All questions, along with the Government responses, will be published publicly within 48 hours. The Government is unable to answer any questions privately or after these deadlines under Federal law and regulations._
+
+* Company Background
+  * Please provide high-level background on your firm. Include your location, capabilities and services, relevant honors and awards, and any relevant clients (current or past). 
+  Location
+* Case Studies
+  * Please provide 2-3 brief case studies. Your work examples should highlight your ability to:
+    * A) follow the "plays" and successful practices detailed in the USDS Digital Services Playbook
+    * B) use design thinking and modern technology to create a product that delivers on client objectives and user needs
+    * C) and build digital products designed to educate, or work with educational institutions and museums.
+* Initial Recommendations
+  * Based on our Statement of Objectives, provide 2-3 recommendations for features, design approaches, and/or general functionality. You may use inspiration from your own portfolio of work, creative inspiration from around the web (i.e. a moodboard), or create low-fidelity spec that visually describes your recommendation.
+* Approach
+  * Based on the details in the SOO and RFQ, please provide your project approach. Please include any project management philosphies, projected phased activities, and anticipated deliverables. You may include a rough timeline if you see fit. 
+* Team & Pricing
+  * Please provide a breakdown of projected pricing, including all requisiting staffing and hard costs.      
+
+##### Phase 2 - Feedback & Additional Q&A
+
+* The NMAAHC team will provide initial feedback based on your written response. They may ask questions or request clarifications about parts of your response. Answers to questions and clarifications are due ______, 2019.
+* Your firm will also have the opportunity to ask additional questions, which are due ______, 2019. 
+
+
+##### Phase 3 - In-Person Presentation
+
+_You will be notified if you make it through to the in-person presentation round via email._
+
+* Select vendors will be invited to come to the museum for an in-person presentation. The presentation will be  75 minutes, roughly following the below agenda:
+  * Introductions (5 minutes)
+  * Agency Overview (5 minutes)
+  * Case Study Deep Dive (10 minutes)
+    * This is an opportunity to walk NMAAHC personnel through a recent project end-to-end. You should highlight the ways in which your approach followed the "plays" details in the USDS Digital Services Playbook, how you delivered on client objectives, and what technical and creative choices you made to ensure success.
+  * Creative Challenge (25 minutes)
+    * The current physical Slavery and Freedom Exhibit at NMAAHC explores the complex story of slavery and freedom which rests at the core of our nation’s shared history. The exhibition begins in 15th century Africa and Europe, and extends through the nation’s transformation during the Civil War and Reconstruction. Your challenge: capture the feeling, the emotional response, and the educational opportunities of the _very_ beginning of that journey, just as you step off the elevators. Create 3-4 specs (static or animated) that reveal how it comes to life visually and technically on the web. Please provide annotations or be prepared to describe how inclusivity, discovery, and empathy guided your thinking. 
+  * Q&A (30 minutes)
+
 
 ### How to be judged
 (coming soon)  
