@@ -9,8 +9,15 @@ _vendors - What questions do you have about this problem statement?_
 
 ### PRODUCT VISION
 
-Our digital product creates for the world (is this our users?) an engaging, emotional and educational digital experience of NMAAHC's (and partners?) body of knowledge for slavery and freedom (that took place in the United States of America between 1400 and 1877?), in a way that promotes discovery in an inclusive way, increases empathy, and helps understand our world (or just our country?) today.  
+We aim to privide a digital experience that evokes the powerful emotional response of an in-person visit to the Museum's Slavery and Freedom exhibition and also expands learning opportunities by providing access to additional digital resources.
+
 _note: the above product vision was developed using key ideas coming out of the invididual product visions co-designed on 6/6/2019. vendors - What questions do you have about the product vision? What do you need further clarity on?_
+
+### OBJECTIVES
+
+* To create for online users an engaging, emotional, and educational digital experience that explores the history of slavery and freedom from 1400 to 1877, based on the curated content of NMAAHC's Slavery and Freedom exhibition.
+* To promote self-directed learning and discovery of information on the topic of slavery and freedom, through searchable and browsable access to digitized images of collection objects, archival documents, artwork, and other primary and secondary sources.
+* To increase and diffuse knowledge about the history of slavery and freedom in order to help audiences understand the roots of racism and social injustice, increase cultural competence and empathy, and inspire multicultural conversations about how to secure a more just society.
 
 ### BACKGROUND
 
