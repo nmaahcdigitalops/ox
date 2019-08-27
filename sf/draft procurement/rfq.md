@@ -109,7 +109,14 @@ _vendors - What are we getting wrong here? Will this or another approach lead to
 * Past performance/experience (not just corporate)
 
 ### How to be judged
-(coming soon)  
+
+#### Technical Evaluation Criteria
+1. Technical Approach: The Government's confidence that the vendor's approach (including white paper submission, interviews/meetings, and technical approach submission) will successfully fulfill the Statements of Objectives and follow modern technology best practices, such as the Digital Services Playbook.
+2. Price: (more content to be added here)
+3. Past performance/experience: (more content to be added here)
+
+#### Scoring Scale
+
 ### Clauses
 (coming soon)
 ### Other
