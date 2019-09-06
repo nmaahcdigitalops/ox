@@ -7,7 +7,7 @@
 ## Acquisition Strategies
 _vendors - Which strategy makes the most sense? Are the pros and cons correct? Which pros and cons are missing? What additional strategies should we think about?_
 
-#### Acquisition Strategy A (SI is leaning towards this strategy)  
+#### Acquisition Strategy A (SI has chosen this strategy)  
 One award for discovery, light-weight prototype (required tasks), then optional task to build an MVP for 8-12 month PoP, then multiple award terms to further develop the product.  
 __Pros:__ Most simple procurement approach. Minimizes overhead to both SI and vendor.  
 __Cons:__ Fewer ideas for discovery and light-weight prototype. Fewer opportunities to see new SI vendors deliver value, which could have been helpful if SI's vision is to build a number of additional digital products during the next few years.    
@@ -27,7 +27,7 @@ __Cons:__ Fewer ideas for discovery and light-weight prototype. Fewer opportunit
   * PoP: 6 months
   * Scope: Further product development
 
-#### Acquisition Strategy B (SI is not leaning towards this strategy)  
+#### Acquisition Strategy B (SI decided not to pursue this strategy)  
 Multiple initial awards, then one larger award  
 __Pros:__ Multiple initial light-weight prototypes  
 __Cons:__ Potential delay or break in schedule between the end of first award and the beginning of larger award, leading to a dip in inertia. Multi-awards process would increase proposal and business development costs for vendors.  
@@ -50,7 +50,7 @@ __Cons:__ Potential delay or break in schedule between the end of first award an
     * ~~PoP: 6 months~~
     * ~~Scope: Further product development~~
   
-#### Acquisition Strategy C (SI is not leaning towards this strategy)  
+#### Acquisition Strategy C (SI decided not to pursue this strategy)  
 Multiple initial awards, where each awardee performs two initial tasks - discovery and a light-weight prototype - both within a brief initial PoP. After each awardee completes those initial taks, the agency will make a decision on which (only one) vendor continues work by only exercising the option period for one of the contracts. The others vendors option periods will not be exercised.
 
 __Pros:__ Multiple initial light-weight prototypes. No procurement-related delay in performance between Task 1 (discovery and light-weight prototype) and subsequent tasks. Vendors get to deliver something of value, while getting paid, and getting to know the agency in the process. Compared to Acquisition Strategy B, Strategy C has reduced overhead costs for SI and vendors since this strategy is for 1 competition versus 2 competitions.  
