@@ -93,7 +93,7 @@ Uknown: How to replicate impact digitally? How to translate experience digitally
 SI Response:   
 
 Uknown: Cost?  
-SI Response: It's hard to imagine a team size (FTEs) of less than 5 or larger than 10. We are communicating this to ensure that vendors and SI are in the same 'ball park' for price. This may evolve since SI is still in the market research phase.  
+SI Response: It's hard to imagine a team size of less than 5 or larger than 7, with several of those individuals not being FTEs. We are communicating this to ensure that vendors and SI are in the same 'ball park' for price. This may evolve since SI is still in the market research phase.  
 
 Uknown: (Will there be) onboarding problems?  
 SI Response:  SI has levels related onboarding needs. SI is normally able to onboard individuals within 30 days, which is for the most complicated level. An example of a lighter level is email and network account which is normall completed in less than 2 weeks, including access to collaboration tools such as JIRA and Confluence. However, full access to SI's internal development environments will take longer (such as 30 days).  
