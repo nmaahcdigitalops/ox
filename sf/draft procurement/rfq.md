@@ -107,6 +107,19 @@ _vendors - What are we getting wrong here? Will this or another approach lead to
 
 ##### Phase 3
 * Due Diligence Session
+  * Schedule: To be announced after Phase 2. The Government will get in touch with you individually to work out a timeslot.
+  * The time limit for the due diligence is 1 hour for each vendor.
+  * Location: Your collaboration method: – you will set it up!
+    * Zoom works great, but we don’t suggest the free version due to it cutting out after 40 minutes.
+    * Skype and other VTC solutions may not work with SI firewalls.
+    * Conference calls work too
+  * This is an individual meeting between the government and each vendor who the Government informed will continue past Phase 2
+  * This meeting is considered a site visit and is a non-evaluated step. No comments, information, or questions presented by the vendor will be considered in the evaluation. This time is open to the vendor to ask questions in order to limit the amount of assumptions that will be included as part of the offeror’s technical or price solutions. 
+  * These communications are confidential. If a question or comment leads to additional information being discussed that could be critical to others the government will issue a solicitation amendment ensuring all vendors are aware of the information so they can present their best solutions.
+  * This is a non-evaluated step.
+* Technical Approach (to include resumes)
+* Price
+* Past performance/experience (not just corporate)
 * Technical Approach (to include resumes)
 * Price
 * Past performance/experience (not just corporate)
