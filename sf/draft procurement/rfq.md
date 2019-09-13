@@ -78,7 +78,7 @@ The majority of the work will be conducted offsite at the Vendor’s facilities,
 <br/><br/>
 
 ## Pricing
-The Government anticipates an initial period of performance to be time and materials (T&M), followed by a firm-fixed price (FFP) contract type for the optional/award-term periods of performce. More specifically, the FFP periods will be FFP per iteration.
+The Government anticipates an initial period of performance to be time and materials (T&M), for the purposes of normalizing velocity and maintaing other important performace factors (such as appropriate bug rate levels). It is anticipated that T&M will be used for the Base Period, Discovery sprint + light-weight prototype(s), and approximately the first 2-3 months of Period 2, Digital product MVP. This would be followed by a firm-fixed price (FFP) contract type for remaining periods of performce. More specifically, the FFP periods will be FFP per iteration.
 <br/><br/>
 ## How to Pitch and How to Be Judged
 
@@ -111,11 +111,42 @@ _vendors - What are we getting wrong here? Will this or another approach lead to
 ### How to be judged
 
 #### Technical Evaluation Criteria
-1. Technical Approach: The Government's confidence that the vendor's approach (including white paper submission, interviews/meetings, and technical approach submission) will successfully fulfill the Statements of Objectives and follow modern technology best practices, such as the Digital Services Playbook.
-2. Price: (more content to be added here)
-3. Past performance/experience: (more content to be added here)
+1. Technical Approach: The Government's confidence that the vendor's approach (including white paper submission, interviews/meetings, and technical approach submission) will successfully fulfill the Statements of Objectives and follow modern technology best practices, such as the Digital Services Playbook. Offerors must demonstrate their understanding of the Government’s requirement and approach to performing the work by providing a detailed description of the proposed services it determines appropriate to satisfy the Government's requirement as defined in the Statement of Objectives.   
+2. Past Experience: Vendor's Past Experience will be evaluated to determine the offeror’s likelihood that the offeror will be successful in the performance of a contract to be awarded by the Government.  
+3. Price: (more content to be added here)  
 
-#### Scoring Scale
+
+### Written Proposal Preparation
+
+The proposal shall conform to solicitation provisions and be prepared in accordance with this section. To aid in evaluation, the proposal shall be clearly and concisely written, as well as being neat, indexed (cross-indexed as appropriate) and logically assembled.  All pages of each section shall be appropriately numbered and identified with the name of the Offeror, the date, and the solicitation number. 
+
+Vendors shall electronically submit a two-volume written proposal, which shall be divided and marked as follows:
+
+Volume I - Technical Approach, Management Approach, and Past Experience
+Volume II - Price Proposal
+
+A Contractor who fails to submit a responsive proposal (Volumes I and II) at the time of proposal submission will be rejected from further consideration.  
+
+#### Confidence Ratings Method
+For Factor 1, Technical Approach, and Factor 2, Past Experience, the Government will assess its level of confidence that the vendor will successfully perform the requirements based on their approach.  One of the following confidence ratings will be assigned.  
+
+Rating|Rating Details|
+-----------|----|
+__High Confidence__|The Government has high confidence that the Offeror understands the requirement, proposes a sound approach, and will be successful in performing the contract with little or no Government intervention.|
+__Some Confidence__|The Government has some confidence that the Offeror understands the requirement, proposes a sound approach, and will be successful in performing the contract with some Government intervention.|
+__Low Confidence__|The Government has low confidence that the Offeror understands the requirement, proposes a sound approach, and will be successful in performing the contract with even with Government intervention.|
+
+Options  
+The Government will evaluate vendors for award purposes by adding the total price for all options to the total price for the basic requirement. The Government may determine that an offer is unacceptable if the option prices are significantly unbalanced or inappropriate. Evaluation of options shall not obligate the Government to exercise the option(s).
+
+Notice of Award  
+A written notice of award or acceptance of an vendor emailed or otherwise furnished to the successful Vendor within the time for acceptance specified in the proposal, shall result in a binding contract without further action by either party.  Before the vendor’s specified expiration time, the Government may accept an offer (or part of an proposal), whether or not there are negotiations after its receipt, unless a written notice of withdrawal is received before award.
+
+Award Without Discussions  
+The Government intends to award without discussions. However, the Government reserves the right to conduct discussions and permit vendors to revise their proposals if it is in the best interest of the Government to do so.
+
+Exchanges with Best-Suited Vendor  
+Once the government determines the Offeror that is best-suited (i.e. the apparent successful Offeror), the government reserves the right to communicate with only that Offeror to address any remaining issues, if necessary, and finalize a contract with that Offeror. These issues may include technical and price. If the parties cannot successfully address any remaining issues, as determined pertinent at the sole discretion of the government, the government reserves the right to communicate with the next best-suited Vendor based on the original analysis and address any remaining issues.
 
 ### Clauses
 (coming soon)
