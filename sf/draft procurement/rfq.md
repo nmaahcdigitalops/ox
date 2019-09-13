@@ -4,6 +4,9 @@
 ## Slavery and Freedom Digital Minimum Viable Product (MVP)
 <br/><br/>  
 
+## Timeline
+For the purpose of communicating an acquisition timeline, the Smithsonian Institution anticipates releasing the Request for Proposal on/around November 1, 2019. 
+
 ## Acquisition Strategies
 _vendors - Which strategy makes the most sense? Are the pros and cons correct? Which pros and cons are missing? What additional strategies should we think about?_
 
