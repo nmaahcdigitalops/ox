@@ -19,7 +19,7 @@ The bullet points below ensure that the size of the vendor is adequate for this 
 The bullet points below relate back to the Digital Services Playbook.  
 
 Play 1 – Understand What People Need
-  * We have identified the primary users of our service, and we conduct formal user research with these users. These users must be real users of the product or service, and must not be a small set of pre-designated Subject Matter Experts.
+  * We have identified the primary users of our product or service, and we conduct formal user research with these users. These users must be real users of the product or service, and must not be a set of pre-designated Subject Matter Experts.
   * We have recently conducted qualitative research (e.g. contextual inquiries, user interviews, on-site observations) for our customers/clients including their users, and have iterated on our implementation plan based on the findings.
   * Through user research directly with users, we have documented and analyzed findings about goals, needs, behaviors, and preferences, and continually refer to the findings to shape the product.
   
