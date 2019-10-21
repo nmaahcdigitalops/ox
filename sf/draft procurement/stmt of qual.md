@@ -1,6 +1,6 @@
 Note About This Draft  
 
-The Smithsonian Institution (SI) intends to release a Statement of Qualification on FBO.gov on/around Thursday, Oct. 24. The SI requests comments, questions __and especially suggestioned edits__ about this Draft Statement of Qualification by 9:00AM EST on Tuesday, Oct. 22 via github or via email to Jill Roberts at RobertsJRJ2@si.edi and Brent Maravilla at bmaravilla@omb.eop.gov. With an eye on eventually obtaining quotes from vendors that approach technology in line with the Digital Services Playbook, we want to understand how this exercise is either not stringent enough or too stringent.
+The Smithsonian Institution (SI) intends to release a Statement of Qualification on FBO.gov on/around Thursday, Oct. 24. The SI requests comments, questions __and especially suggested edits__ about this Draft Statement of Qualification by 9:00AM EST on Tuesday, Oct. 22 via github or via email to Jill Roberts at RobertsJRJ2@si.edu and Brent Maravilla at bmaravilla@omb.eop.gov. With an eye on eventually obtaining quotes from vendors that approach technology in line with the [Digital Services Playbook](https://playbook.cio.gov), we want to understand how this exercise is either not stringent enough or too stringent.
 
 __DRAFT STATEMENT OF QUALIFICATION__  
 
@@ -13,15 +13,15 @@ The Smithsonian Institution (SI) intends to release a Request for Proposal on or
 
 The bullet points below ensure that the size of the vendor is adequate for this particular work, and that the anticipated price proposal is in the same 'ballpark' as the government budget.  
 
-* Has your company have adequate size to successfully deliver the digital product (15 FTEs minimum)?
-* Does your company certify that it is able to build the product within the budgetary constraints of the Government. See size estimate of team as indicated in the draft Statements of Objectives?
+* Does your company have adequate size to successfully deliver the digital product (5-7 FTEs minimum)?
+* Does your company certify that it is able to build the product within the budgetary constraints of the Government? See size estimate of team as indicated in the draft Statements of Objectives.
 
 The bullet points below relate back to the Digital Services Playbook.  
 
 Play 1 – Understand What People Need
-  * We have identified the primary users of our service, and we conduct formal user research with these users at least monthly. These users must be real users of the product or service, and must not be a small set of pre-designated Subject Matter Experts.
-  * Over the last quarter, we have conducted for our customers/clients qualitative research methods (e.g. contextual inquiries, user interviews, on-site observations) with our customer’s/client’s users and have changed our implementation plan based on the findings.
-  * Through user research directly with end-users, we have documented and analyzed findings about user goals, needs, behaviors, and preferences, and continually refer to the findings to shape the product we and our customer/client built.
+  * We have identified the primary users of our product or service, and we conduct formal user research with these users. These users must be real users of the product or service, and must not be a set of pre-designated Subject Matter Experts.
+  * We have recently conducted qualitative research (e.g. contextual inquiries, user interviews, on-site observations) for our customers/clients including their users, and have iterated on our implementation plan based on the findings.
+  * Through user research directly with users, we have documented and analyzed findings about goals, needs, behaviors, and preferences, and continually refer to the findings to shape the product.
   
 Play 2 – Address the Whole Experience from Start to Finish
   * Through direct user research, we understand user motivations as they use the service we provide.
@@ -31,22 +31,26 @@ Play 2 – Address the Whole Experience from Start to Finish
   
 Play 3 – Make it Simple and Intuitive
   * The products or services for our customers/clients do not require knowledge of the organizational structure or our agency to complete the process.
-  * We coordinated with our customers/clients to make design and content decisions based on user research, usability testing, and analytics.
-  * For all user-facing features built over the last quarter, we coordinated with our customers/clients to use plain language that is familiar to the user and easy to understand.
+  * We coordinated with our customers/clients to make design and content decisions based on accessibility needs, user research, usability testing, and analytics.
+  * For all user-facing features built recently, we coordinated with our customers/clients to use plain language that is familiar to the user, easy to understand, and possible to translate across cultures and languages.
   
 Play 4 – Build the Service Using Agile and Iterative Practices
-  * For at least ½ of the projects/products for our customers/clients we launched a functioning “minimum viable product” (MVP) that took no longer than nine(?) months from the beginning of the project, using a “beta” or “test” period if needed.
+  * For at least half of the projects/products for our customers/clients we launched a functioning “minimum viable product” (MVP), using a “beta” or “test” period if needed.
   * We ensure the individuals building the service (product managers, developers, designers) communicate closely with each other throughout the process using techniques such as daily standups, launch meetings, and team chat tools.
-  * We release features and improvements multiple times each month for at least ½ of the projects/products for our customers/clients.
+  * We release features and improvements multiple times each month for at least half of the projects/products for our customers/clients.
   * We maintain a prioritized list of features and bugs, also known as a “backlog,” in an issue tracker that is accessible by everyone on the project.
   * We use a source code version control system.
   * We use code reviews to ensure quality for each release.
 
 Play 7 – Bring in Experienced Teams
-  * Our company’s teams include product managers who have built and launched user-centered, high-traffic digital services in previous projects.
-  * Our company’s teams include user experience designer(s) who have conducted one-on-one sessions with end users to understand user needs and translated those needs into a design for the digital service in previous projects.
-  * Our company currently has content strategist(s) who have developed user-centered, plain-language content in previous projects.
-  * Our company includes software engineer(s) who have used modern development and operations (DevOps) techniques like continuous integration and continuous deployment.
+
+Our company's team include:
+  * Product managers who have built and launched user-centered, high-traffic digital services in previous projects.
+  * User experience designer(s) who have conducted one-on-one sessions with end users to understand user needs and translated those needs into a design for the digital service in previous projects.
+  * Art directors who have experience with branding, interaction design, movement, and animation.
+  * Content strategist(s) who are able to turn project objectives and content audits into editorial calendars, style guides, taxonomies, metadata frameworks, and content migration plans.
+  * Copywriters who have experience crafting stories and who have developed user-centered, plain-language content in previous projects.
+  * Software engineer(s) who have used modern development and operations (DevOps) techniques like continuous integration and continuous deployment.
   
 Play 8 – Choose a Modern Technology Stack
   * We use modern development tools that enable our software engineers to be effective and allow for adoption of emerging tools.
@@ -55,18 +59,27 @@ Play 8 – Choose a Modern Technology Stack
   * Our application is built using open source software solutions at every layer of the stack.
   
 Play 9 – Deploy in a Flexible Hosting Environment  
-  * For at least ¼ of the projects/products for our customers/clients over the last quarter (of a year), any time we provisioned additional servers or instances for production usage, it took less than two hours.
-  * In the last quarter, we have verified that for at least ¼ of the projects/products for our customers/clients, the servers or instances automatically scale based on real-time demand, without any human intervention.
-  * Half or more of the projects/products for our customers/clients the application is currently deployed in a test environment that mirrors the production environment.
+  * We provisioned additional servers or instances for production usage utilizing standard approaches which minimized deployment times over the past year.
+  * Where necessary, and possible, we enabled all servers/instances to automatically scale based on real-time demands, without any human intervention.
+  * At least half of our customer/client projects/products are currently deployed in a test environment that mirrors the production environment.
   
 Play 10 – Automate Testing and Deployments
-  * Currently, half or more of the projects/products for our customers/clients follow software build processes which automatically run automated tests to verify functionality and prevent bugs or broken functionality from being released.
+  * At least half of our customer/client projects/products follow software build processes which automatically run automated tests to verify functionality and prevent bugs or broken functionality from being released.
   
+Play 11 – Manage security and privacy through reusable processes
+We bring experience 
+  * Determining what data is collected and why, how it is used or shared, how it is stored and secured, and how long it is kept
+  * Determining whether and how users are notified about how personal information is collected and used, including whether a privacy policy is needed and where it should appear, how users will be notified in the event of a security breach, and ensuring GDPR compliance
+  * Considering whether the user should be able to access, delete, or remove their information from the service
+
+
 Play 12 – Use Data to Drive Decisions
-  * For our customers/clients we have developed automated alerts based on monitoring.
-  * For our customers/clients we have implemented tools to track concurrent users in real-time, and to understand how users, in the aggregate, use our service.
-  * For our customers/clients we have established user metrics (e.g. user satisfaction) for the customer’s/client’s service, including baseline measurements, targets, and timeframes.
+
+For our customers/clients:
+  * We have developed automated alerts based on monitoring.
+  * We have implemented tools to track concurrent users in real-time, and to understand how users, in the aggregate, use our service.
+  * We have established user metrics (e.g. user satisfaction) for the customer’s/client’s service, including baseline measurements, targets, and timeframes.
   
 Play 13 – Default to Open
   * Our customer/client maintains contractual rights to all custom software developed by our company, including the right to publish or reuse it at no additional cost.
-  * The source code developed for our customers’/clients’ application is stored in a publicly-visible code repository, and that repository is currently used by existing developers as they build features.
+  * Whenever possible the source code developed for our customers’/clients’ application is stored in a publicly-visible code repository, and that repository is currently used by existing developers as they build features.
