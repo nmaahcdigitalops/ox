@@ -1,6 +1,6 @@
 Note About This Draft  
 
-The Smithsonian Institution (SI) intends to release a Statement of Qualification on FBO.gov on/around Thursday, Oct. 24. The SI requests comments, questions __and especially suggestioned edits__ about this Draft Statement of Qualification by 9:00AM EST on Tuesday, Oct. 22 via github or via email to Jill Roberts at RobertsJRJ2@si.edi and Brent Maravilla at bmaravilla@omb.eop.gov. With an eye on eventually obtaining quotes from vendors that approach technology in line with the Digital Services Playbook, we want to understand how this exercise is either not stringent enough or too stringent.
+The Smithsonian Institution (SI) intends to release a Statement of Qualification on FBO.gov on/around Thursday, Oct. 24. The SI requests comments, questions __and especially suggestioned edits__ about this Draft Statement of Qualification by 9:00AM EST on Tuesday, Oct. 22 via github or via email to Jill Roberts at RobertsJRJ2@si.edu and Brent Maravilla at bmaravilla@omb.eop.gov. With an eye on eventually obtaining quotes from vendors that approach technology in line with the Digital Services Playbook, we want to understand how this exercise is either not stringent enough or too stringent.
 
 __DRAFT STATEMENT OF QUALIFICATION__  
 
