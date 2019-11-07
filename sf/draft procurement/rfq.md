@@ -5,7 +5,7 @@
 <br/><br/>  
 
 ## Timeline
-For the purpose of communicating an acquisition timeline, the Smithsonian Institution anticipates releasing the Request for Proposal on/around November 1, 2019. 
+For the purpose of communicating an acquisition timeline, the Smithsonian Institution anticipates releasing the Request for Proposal during the week of November 11, 2019. The government is no longer planning to use a Statement of Qualifications for this procurement. However, the government intends to use a subset of items listed in the draft Statement of Qualifications in Phase I of this RFQ.
 
 ## Acquisition Strategies
 _vendors - Which strategy makes the most sense? Are the pros and cons correct? Which pros and cons are missing? What additional strategies should we think about?_
