@@ -120,9 +120,6 @@ _vendors - What are we getting wrong here? Will this or another approach lead to
 * Technical Approach (to include resumes)
 * Price
 * Past performance/experience (not just corporate)
-* Technical Approach (to include resumes)
-* Price
-* Past performance/experience (not just corporate)
 
 ### How to be judged
 
@@ -138,7 +135,7 @@ The proposal shall conform to solicitation provisions and be prepared in accorda
 
 Vendors shall electronically submit a two-volume written proposal, which shall be divided and marked as follows:
 
-Volume I - Technical Approach, Management Approach, and Past Experience
+Volume I - Technical Approach, Management Approach, and Past Experience (20 single-sided pages maximum)
 Volume II - Price Proposal
 
 A Contractor who fails to submit a responsive proposal (Volumes I and II) at the time of proposal submission will be rejected from further consideration.  
